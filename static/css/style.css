@@ -1,0 +1,9 @@
+
+body {
+    display: flex;
+    display-direction: column;
+}
+
+a.PYG-nav-items {
+    font-size: 990px;
+}
